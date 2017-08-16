@@ -12,6 +12,7 @@
             :province="province"
             :city="city"
             :detail="detail"
+            :district="district"
             @change="handlerChange"
         ></vue-address>
       </div>
@@ -27,6 +28,7 @@
         return {
             province:'',
             city:'',
+            district:'',
             detail:''
         }
       },
