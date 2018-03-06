@@ -1,7 +1,7 @@
 # vue-address
 > 基于vue.js的多级联动地址选择器，需要配合element-ui使用
 * [源码](https://github.com/peng1992/vue-address/blob/master/src/components/address.vue)
-* [在线DOM](https://webcodefarmer.github.io/vue-address/)
+* [在线DOM](https://webcodefarmer.github.io/vue-address/dist/)
 
 #### 如何使用？
 
